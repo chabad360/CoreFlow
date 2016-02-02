@@ -1,5 +1,5 @@
 ## Warning
-This is a work in progress be patient, things may change, or any parts can break, if you have any of these situations, be free to open an issue.
+This is abandoned project for now
 
 ## CoreFlow
 CoreFlow are Business Rules and powered Workflows to frappé framework
