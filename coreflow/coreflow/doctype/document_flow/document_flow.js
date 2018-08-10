@@ -1,8 +1,8 @@
-{% include "public/js/actions-builder.js" %}
-{% include "public/js/conditions-builder.js" %}
-{% include "public/js/standard-operators.js" %}
-{% include "public/js/standard-actions.js" %}
-{% include "public/js/rule-engine.js" %}
+{% include "../../../public/js/actions-builder.js" %}
+{% include "../../../public/js/conditions-builder.js" %}
+{% include "../../../public/js/standard-operators.js" %}
+{% include "../../../public/js/standard-actions.js" %}
+{% include "../../../public/js/rule-engine.js" %}
 
 cur_frm.cscript.onload = function(doc, cdt, cdn){
 	cur_frm.fields_dict.document_type.get_query = function(doc, cdt, cdn){
